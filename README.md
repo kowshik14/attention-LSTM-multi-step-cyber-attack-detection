@@ -25,5 +25,6 @@ In recent years, the intensive usage of electronic devices called for a greater 
 
   MULTI-STEP CYBER-ATTACK DATASET (MSCAD FOR INTRUSION DETECTION)
 
-  * Publicly avable at: https://ieee-dataport.org/documents/multi-step-cyber-attack-dataset-mscad-intrusion-detection
+  * Publicly available at: https://ieee-dataport.org/documents/multi-step-cyber-attack-dataset-mscad-intrusion-detection
+  * Can be processed using the same code 
 
