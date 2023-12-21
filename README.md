@@ -4,3 +4,9 @@ In recent years, the intensive usage of electronic devices called for a greater 
 
 ## Overall Work Flow
 ![image](https://github.com/kowshik14/Attention/assets/97826581/98102af6-99d3-4fd4-b2c2-9db3a4c16d44)
+
+## Implementation
+### Data Pre-Processing
+
+* Dimensionality Reduction using PSO
+* Data Standardization
