@@ -10,3 +10,7 @@ In recent years, the intensive usage of electronic devices called for a greater 
 
 * Dimensionality Reduction using PSO
 * Data Standardization
+
+### Cyber-attack Detection Model
+
+![attention](https://github.com/kowshik14/Attention/assets/153311023/0bd57fd0-38d8-4a87-9cc3-91d0088d07da)
