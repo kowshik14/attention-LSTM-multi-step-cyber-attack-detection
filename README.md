@@ -33,3 +33,8 @@ In recent years, the intensive usage of electronic devices called for a greater 
   https://github.com/kowshik14/Attention/blob/main/MSCAD.ipynb: Code for all the pre-processing, model implementation and hyper parameter 
   tunning
 
+  ### Libraries
+   * Python 3.5+
+   * Keras 2.1.0+
+   * https://www.tensorflow.org/install/gpu
+
