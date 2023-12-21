@@ -38,3 +38,7 @@ In recent years, the intensive usage of electronic devices called for a greater 
    * Keras 2.1.0+
    * Tensorflow 1.10.0+
 
+ ### Contact-info
+ 
+  Please feel free to contact us for any questions or cooperation opportunities. We will be happy to help.
+  * Email : ebtikarim@ece.kuet.ac.bd OR roy1609001@kuet.ac.bd OR pritombiswas005@gmail.com
