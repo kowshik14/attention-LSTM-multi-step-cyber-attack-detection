@@ -26,5 +26,9 @@ In recent years, the intensive usage of electronic devices called for a greater 
   MULTI-STEP CYBER-ATTACK DATASET (MSCAD FOR INTRUSION DETECTION)
 
   * Publicly available at: https://ieee-dataport.org/documents/multi-step-cyber-attack-dataset-mscad-intrusion-detection
-  * Can be processed using the same code 
+  * Can be processed using the same code
+ 
+  ### Code
+
+  https://github.com/kowshik14/Attention/blob/main/MSCAD.ipynb: Code for all the pre-processing, model implementation and hyper parameter tunning
 
