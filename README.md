@@ -36,5 +36,5 @@ In recent years, the intensive usage of electronic devices called for a greater 
   ### Libraries
    * Python 3.5+
    * Keras 2.1.0+
-   * https://www.tensorflow.org/install/gpu
+   * Tensorflow 1.10.0+
 
