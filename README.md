@@ -42,4 +42,4 @@ In recent years, the intensive usage of electronic devices called for a greater 
  
   Please feel free to contact us for any questions or cooperation opportunities. We will be happy to help.
   * Email : ebtikarim@ece.kuet.ac.bd OR roy1609001@kuet.ac.bd OR pritombiswas005@gmail.com
-  * Google Scholar: [Ebti Karim]{https://scholar.google.com/citations?user=5ihaOvAAAAAJ&hl=en}, [Kowshik Sankar Roy]{https://scholar.google.com/citations?user=jcerybgAAAAJ&hl=en}, [Pritom Biswas Udas]{https://scholar.google.com/citations?user=0kk6HGAAAAAJ&hl=en}
+  * Google Scholar: [Ebti Karim](https://scholar.google.com/citations?user=5ihaOvAAAAAJ&hl=en) {https://scholar.google.com/citations?user=5ihaOvAAAAAJ&hl=en}, [Kowshik Sankar Roy]{https://scholar.google.com/citations?user=jcerybgAAAAJ&hl=en}, [Pritom Biswas Udas]{https://scholar.google.com/citations?user=0kk6HGAAAAAJ&hl=en}
