@@ -43,3 +43,10 @@ In recent years, the intensive usage of electronic devices called for a greater 
   Please feel free to contact us for any questions or cooperation opportunities. We will be happy to help.
   * Email : ebtikarim@ece.kuet.ac.bd OR roy1609001@kuet.ac.bd OR pritombiswas005@gmail.com
   * Google Scholar: [Ebti Karim](https://scholar.google.com/citations?user=5ihaOvAAAAAJ&hl=en), [Kowshik Sankar Roy](https://scholar.google.com/citations?user=5ihaOvAAAAAJ&hl=en),  [Pritom Biswas Udas](https://scholar.google.com/citations?user=0kk6HGAAAAAJ&hl=en)
+
+
+### Citation
+
+If you find this repository useful in your research, please cite this article as:
+
+P. B. Udas, K. S. Roy, M. E. Karim, and S. M. Azmat Ullah, “Attention-based RNN architecture for detecting multi-step cyber-attack using PSO metaheuristic,” in 2023 International Conference on Electrical, Computer and Communication Engineering (ECCE), 2023. DOI: http://dx.doi.org/10.1109/ECCE57851.2023.10101590
